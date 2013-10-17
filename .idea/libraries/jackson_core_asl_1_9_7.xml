@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jackson-core-asl-1.9.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/puffin/jackson-core-asl-1.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puffin/libs/jackson-core-asl-1.9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

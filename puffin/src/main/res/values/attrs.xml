@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MouseButton">
+        <attr name="button_background" format="color"/>
+        <attr name="button_stroke"  format="color"/>
+    </declare-styleable>
+    <declare-styleable name="CenterButton">
+        <attr name="bg" format="color"/>
+        <attr name="st"  format="color"/>
+    </declare-styleable>
+</resources>
